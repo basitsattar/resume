@@ -7,14 +7,22 @@ began to learn web development.However you shouldn't use my image.
 The HTML used in it include
 
 Basic html5 structure
-div tags <div>
-paragraph tags <p>
-Table tags ( <table><thead><tbody><th><td><tr>)
-Anchor tags (<a href="") used for giving links
-Image tags (<img >)
-article tag(<article>)
-header (<header>)
-navigation tag (<nav>)
+
+div tags 
+
+paragraph tags 
+
+Table tags 
+
+Anchor tags used for giving links
+
+Image tags 
+
+article tag 
+
+header
+
+navigation tag 
 
 I have not made a separate css file rather all the css is in the same file which is not a good practice. But as this 
 was a HTML lab so it was not necessary.
